@@ -62,7 +62,6 @@ h1 a {
 }
 #gnb > ul > li {
   width: 150px;
-
   position: relative;
 }
 #gnb > ul > li > a {
@@ -368,7 +367,6 @@ section {
 }
 .data_box {
   width: 60%;
-
   height: 300px;
   box-sizing: border-box;
   padding: 20px;
@@ -549,7 +547,6 @@ footer {
 }
 footer .con {
   height: 100%;
-
   display: flex;
   align-items: center;
   justify-content: space-between;
